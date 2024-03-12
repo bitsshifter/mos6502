@@ -1,3 +1,1 @@
 # MOS 6502
-I started writing the MOS6502 emulator in C and started to wonder if my approach is right. Are there really any approaches? I've seen some people implement the main bus; others don't, so I am confused. This is my first emulator, and I hate to use Reddit, but I would like to hear your opinion about this. This is a link to the repo where I describe my approach; nothing fancy...
-
